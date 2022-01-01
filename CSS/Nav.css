@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@500&display=swap');
 
+p {
+	color: white;
+	text-align: center;
+	font-family: Open Sans;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Montserrat;
+	padding-top: 200px;
+}
+
 .topnav {
     background-color: black;
   }
